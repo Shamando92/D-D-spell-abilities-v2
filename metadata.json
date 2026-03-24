@@ -1,0 +1,5 @@
+{
+  "name": "D&D DM Dashboard",
+  "description": "A comprehensive dashboard for Dungeon Masters to track player spells, abilities, and inventory usage with rest management.",
+  "requestFramePermissions": []
+}
